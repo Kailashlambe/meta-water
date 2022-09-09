@@ -1,0 +1,8 @@
+{
+    "name": "earth/meta-water",
+    "description": "Earth water meta package",
+    "type": "metapackage",
+    "require": {
+        "earth/meta-gra": "~1.0"
+    }
+}
