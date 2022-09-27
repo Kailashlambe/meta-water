@@ -4,5 +4,6 @@
     "type": "metapackage",
     "require": {
         "earth/meta-gra": "~1.0"
+        "earth/water-brand-module": "dev-master"
     }
 }
